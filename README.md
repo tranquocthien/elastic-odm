@@ -1,5 +1,5 @@
 # Elasticsearch ODM
-## _Installation_
+## _Installation_  
 ```bash
 $ npm i elastic-odm
 ```
